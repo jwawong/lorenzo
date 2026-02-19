@@ -41,6 +41,7 @@ The **Social Media Researcher/Writer** will analyze these to mimic your voice, s
 *   **Style:** Cinematic, high contrast, moody, minimalist.
 *   **Colors:** Deep blues, purples, neon accents, stark black/white.
 *   **Composition:** Rule of thirds, leading lines, symmetry.
+*   **Assets Folder:** `libraries/social/images/` (Add your files here!)
 *   **Inspirations:**
     *   Example 1: [Link to image/post]
     *   Example 2: [Link to image/post]
